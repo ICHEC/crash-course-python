@@ -1,6 +1,6 @@
-# Week 1: Variables, data structures, and operations
+# 1: Variables, data structures, and operations
 
-## 1.1 - Variables - [Notebook](./notebooks/pyqm-1.1-variables.ipynb) - [Video](https://youtu.be/dU8NKvAxcnE)
+## 1.1 - Variables - [Video](https://youtu.be/dU8NKvAxcnE)
 
 - Integer and Float Variables
 - Scientific Notation
@@ -11,7 +11,7 @@
 - None Type
 - Operator Precedence
 
-## 1.2 - Data Structures - [Notebook](./notebooks/pyqm-1.2-data-structures.ipynb) - [Video](https://youtu.be/yCQQwTEaMvs)
+## 1.2 - Data Structures - [Video](https://youtu.be/yCQQwTEaMvs)
 
 - Lists
 - Tuples
@@ -23,16 +23,12 @@
     - Slicing and Reorganising
     - Combining Structures
     - Copying
-    
-## 1.3 - Binary Operations - [Notebook](./notebooks/pyqm-1.3-binary-operations.ipynb) - [Video](https://youtu.be/dMw8E-8cQpc)
+
+## 1.3 - Binary Operations - [Video](https://youtu.be/dMw8E-8cQpc)
 
 - Overview Of Binary
 - Bitwise Operators
 - Shift Operators
-
-## 1.4 - Cheatsheet - [Notebook]
-
-Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 
 ## 1.5 - Tutorial [Tutorial 1](Week1_Exercises/PyQM_Tut.1_sol.ipynb) 
 1. Matrix Multiplication
@@ -45,9 +41,10 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 2. Energy Levels of Hydrogen
 3. Quantum Qubit Gates & Nested Lists
 4. Periodic Function
-# Week 2: Flow control, comprehensions and file operations
 
-## 2.1 - Flow Control - [[Notebook]](./notebooks/pyqm-2.1-flow-control.ipynb) - [[Video]](https://youtu.be/6IUQ12mOb1A)
+# 2: Flow control, comprehensions and file operations
+
+## 2.1 - Flow Control [Video](https://youtu.be/6IUQ12mOb1A)
 
 - Conditional Statements(if, elif, else)
 - Testing Code (try, except)
@@ -58,7 +55,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Break, continue, pass
 
 
-## 2.2 - Compact Code - [[Notebook]](./notebooks/pyqm-2.2-compact-code.ipynb) - [[Video]](https://youtu.be/JBFc9V6BcNY)
+## 2.2 - Compact Code - [Video](https://youtu.be/JBFc9V6BcNY)
 
 - One-line if and else
 - Comprehensions
@@ -66,7 +63,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Generators
 - Maps
 
-## 2.3 - External Data - [[Notebook]](./notebooks/pyqm-2.3-external-data.ipynb) - [[Video]](https://youtu.be/Pjl23pFmk_w)
+## 2.3 - External Data - [Video](https://youtu.be/Pjl23pFmk_w)
 - Basic user input
 - Opening, closing and creating file
 - Reading and writing files
@@ -90,7 +87,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 5. Rotating Vectors In 2-Dimensions
 6. Quantum Quibit State Normalisation# Week 3: Functions and Classes
 
-## 3.1 - Functions - [[Notebook]](./notebooks/pyqm-3.1-function.ipynb) - [[Video]](https://www.youtube.com/watch?v=h-TmiynfpCs)
+## 3.1 - Functions - [Video](https://www.youtube.com/watch?v=h-TmiynfpCs)
 
 - Functions Returning a Value
 - Functions Returning Multiple Values
@@ -99,7 +96,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Keyword Arguments, *args, and **kwargs
 - Map, Filter, and Lambda Functions
 
-## 3.2 - Classes - [[Notebook]](./notebooks/pyqm-3.2-classes.ipynb) - [[Video]](https://www.youtube.com/watch?v=Jx7woTztGyA)
+## 3.2 - Classes - [Video](https://www.youtube.com/watch?v=Jx7woTztGyA)
 
 - Attributes
 - Methods
@@ -112,7 +109,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 
 ## [Excercise 3](exercises/PyQM_Ex.3.ipynb)# Week 4: Numpy
 
-## 4.1 - Numpy Basics - [[Notebook]](./notebooks/pyqm-4.1-numpy-basics.ipynb) - [[Video]](https://www.youtube.com/watch?v=508EUmhzjPs)
+## 4.1 - Numpy Basics - [Video](https://www.youtube.com/watch?v=508EUmhzjPs)
 
 - Numpy Arrays
 - Copying Arrays
@@ -122,7 +119,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - 0-Dimensional Arrays
 - Multi-Dimensional Arrays
 
-## 4.2 - Numpy Array Creation & Manipulation - [[Notebook]](./notebooks/pyqm-4.2-numpy-array-creation-manipulation.ipynb) - [[Video]](https://www.youtube.com/watch?v=JkAW8I7GVnw)
+## 4.2 - Numpy Array Creation & Manipulation - [Video](https://www.youtube.com/watch?v=JkAW8I7GVnw)
 
 - Methods To Create Numpy Arrays
 - Non-Numerical Data Types
@@ -130,14 +127,14 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Slicing Numpy Arrays
 - Array Manipulation
 
-## 4.3 - Numpy Linear Algebra - [[Notebook]](./notebooks/pyqm-4.3-numpy-linear-algebra.ipynb) - [[Video]](https://www.youtube.com/watch?v=Y4kJA38vwe8)
+## 4.3 - Numpy Linear Algebra - [Video](https://www.youtube.com/watch?v=Y4kJA38vwe8)
 
 - Scalar Array Operations
 - Element-Wise Operations
 - Matrix Algera
 - Matrix Transformations
 
-## 4.4 - Numpy Tools - [[Notebook]](./notebooks/pyqm-4.4-numpy-tools.ipynb) - [[Video]](https://www.youtube.com/watch?v=0ezvWFQhdck)
+## 4.4 - Numpy Tools - [Video](https://www.youtube.com/watch?v=0ezvWFQhdck)
 
 - Random Sampling
 - Binary Operations
@@ -151,9 +148,9 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 
 ## 4.7 [Exercises ](PyQM_Ex.4_sol.ipynb)
 
-# Week 5: Matplotlib
+# 5: Matplotlib
 
-## 5.1 - Line Plots - [[Notebook]](./notebooks/pyqm-5.1-line-plots.ipynb) - [[Video]](https://www.youtube.com/watch?v=D50f3tPYUiM)
+## 5.1 - Line Plots - [Video](https://www.youtube.com/watch?v=D50f3tPYUiM)
 
 - Using plt.plot
     - Plotting a line between two points
@@ -183,7 +180,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
     - Adjusted functions
     - Saving an image
 
-## 5.2 - Multiple and Alternative Plots - [[Notebook]](./notebooks/pyqm-5.2-multiple-and-alternative-plots.ipynb) - [[Video]](https://www.youtube.com/watch?v=842vyBG-apQ)
+## 5.2 - Multiple and Alternative Plots - [Video](https://www.youtube.com/watch?v=842vyBG-apQ)
 
 - Subplots
     - Making sub-plots using `plt.subplot()`
@@ -195,7 +192,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Bar Chart
 - Pie Chart
 
-## 5.3 - 3D Plots and Animations - [[Notebook]](./notebooks/pyqm-5.3-3d-plots-and-animations.ipynb) - [[Video]](https://www.youtube.com/watch?v=2GGQqxRI3fs)
+## 5.3 - 3D Plots and Animations [Video](https://www.youtube.com/watch?v=2GGQqxRI3fs)
 
 - 3D Line Plot
 - Heatmap
@@ -222,9 +219,10 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 3. Particle in a Box
 4. Plotting a Sphere
 5. Snake Animation
-# Week 6: SciPy
 
-## 6.1 - Scipy Linear Algebra - [[Notebook]](./notebooks/pyqm-6.1-scipy-linear-algebra.ipynb) - [[Video]](https://youtu.be/EQWi8rliCqY)
+# 6: SciPy
+
+## 6.1 - Scipy Linear Algebra - [Video](https://youtu.be/EQWi8rliCqY)
 
 - Linear Systems
 - Matrix Functions
@@ -238,7 +236,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Single Value Decomposition
 - Schur Decomposition
 
-## 6.2 - Scipy Optimization - [[Notebook]](./notebooks/pyqm-6.2-scipy-optimization.ipynb) - [[Video]](https://youtu.be/p2ohSsd1KTg) 
+## 6.2 - Scipy Optimization - [Video](https://youtu.be/p2ohSsd1KTg) 
 
 - Function Minimum
 - Global Optimization
@@ -246,7 +244,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - Optimize Least Square Fit
 - Curve Fit
 
-## 6.3 - Scipy Fourier Transform - [[Notebook]](./notebooks/pyqm-6.3-scipy-fourier-transform.ipynb) - [[Video]](https://youtu.be/c5uvMbymfvQ)  
+## 6.3 - Scipy Fourier Transform - [Video](https://youtu.be/c5uvMbymfvQ)  
 
 - The Fourier Transform
 - Wave Packet
@@ -255,7 +253,7 @@ Week1_Supplementary_Material/PyQM_1.4_Cheatsheet.ipynb
 - The Bloch Sphere
 
 
-## 6.4 - Scipy ODEs & PDEs - [[Notebook]](./notebooks/pyqm-6.4-scipy-ode-pde.ipynb) - [[Video]](https://youtu.be/W6iLi9I90OM)   
+## 6.4 - Scipy ODEs & PDEs - [Video](https://youtu.be/W6iLi9I90OM)   
 
 - Integration
 - ODE
