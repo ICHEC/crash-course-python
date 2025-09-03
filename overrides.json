@@ -1,0 +1,16 @@
+{
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Light"
+  },
+  "@jupyterlab/docregistry-extension:file-types": {
+    "markdown": {
+      "name": "markdown",
+      "displayName": "Markdown",
+      "extensions": [".md", ".markdown"],
+      "mimeTypes": ["text/markdown"],
+      "iconClass": "jp-MaterialIcon jp-MarkdownIcon",
+      "fileFormat": "text",      
+      "defaultViewer": "Markdown Preview"
+    }
+  }
+}
