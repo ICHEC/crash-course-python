@@ -4,6 +4,12 @@
 ## Description
 Welcome to the python crash course. This repository contains notebook to run through key aspects of python as in interactive journey for someone who needs a quick glance into python. We cover the following topics -
 
+The best way to use this resource is to head over to the published url:
+
+- [https://ichec.github.io/crash-course-python/](https://ichec.github.io/crash-course-python/)
+
+Which has a browser based jupyter lab setup to provide interactive learning experience. The content is available through [notebook](./notebook.ipynb).
+
 1. Fundamentals
 2. Flow Control and I/O
 3. Functions and Classes
@@ -22,7 +28,5 @@ Below are the links to setup python in case you don't know already. However, thi
 
 
 ## Contact
-- Emil Dimitrov – <emil.dimitrov@ichec.ie>
-- James Nelson - <james.nelson@ichec.ie>
-- Rajarshi Tiwari - <rajarshi.tiwari@ichec.ie>
-- Venkatesh Kannan – <venkatesh.kannan@ichec.ie>
+
+For any issue contact ICHEC Quantum Team at <qpcc@ichec.ie>
