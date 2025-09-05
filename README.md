@@ -8,7 +8,7 @@ The best way to use this resource is to head over to the published url:
 
 - [https://ichec.github.io/crash-course-python/](https://ichec.github.io/crash-course-python/)
 
-Which has a browser based jupyter lab setup to provide interactive learning experience. The content is available through [notebook](./notebook.ipynb).
+Which has a browser based jupyter lab setup to provide interactive learning experience. The content is available through [notebook.ipynb](./notebook.ipynb). Alternatively, the file [overview.md](./overview.md) contains the overview of the content, along with section specific video links as well.
 
 1. Fundamentals
 2. Flow Control and I/O
